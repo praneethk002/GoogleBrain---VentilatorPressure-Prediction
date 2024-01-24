@@ -3,6 +3,7 @@
 <body>
 This project deals with time series analysis, to predict pressure of a mechanical ventilator for a given patient.
 <p>The dataset required for this project has been taken from <a href = "https://www.kaggle.com/competitions/ventilator-pressure-prediction/overview">Kagggle</a></p>
+<img src="https://imgur.com/tOMbOeI" alt="Italian Trulli">
 
 <h2>Dataset Overview</h2>
 <p>The following are the features of the dataset
